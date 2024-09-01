@@ -6,43 +6,48 @@ nav_order: 6
 
 # Technology Stack
 
-Shvanas leverages cutting-edge AI and IoT technologies to deliver an intelligent platform for dog-human communication.
+Shvanas leverages cutting-edge technologies to deliver a seamless and intelligent platform for dog owners and service providers.
 
 ## Core Technologies
 
-- **AI/ML**: TensorFlow and PyTorch for deep learning models
-- **IoT**: Custom-designed smart collar with audio sensors and processors
-- **Mobile App**: React Native for cross-platform development
-- **Backend**: Python with Flask for AI model serving
-- **Database**: PostgreSQL for structured data, MongoDB for unstructured data
-- **Cloud Infrastructure**: AWS (Amazon Web Services) for scalability and AI/ML capabilities
+- **Mobile App**: Flutter for cross-platform development
+- **AI/ML**: Gemini GenAI for advanced AI capabilities
+- **Cloud Infrastructure**: Google Cloud Platform (GCP) for hosting and data management
+- **IoT**: Custom-designed smart collar with sensors and processors
 
 ## Key Features and Technologies
 
-1. **AI Bark Translation**:
+1. **Shvanas Collar**:
 
-   - Custom-trained deep learning models using CNNs and RNNs
-   - Natural Language Processing (NLP) for context understanding
-   - Real-time audio processing on the smart collar
+   - Tracking capabilities (location, heart rate, oxygen levels)
+   - Protection features (alarm system triggered by high heart rate and motion)
+   - Microphone and speakers for communication and music playback
+   - Bark control functionality
 
-2. **Emotion Detection**:
+2. **AI-Powered Features**:
 
-   - Machine learning algorithms for canine emotion classification
-   - Integration with collar sensors for physiological data
+   - Bark translation
+   - Emotion detection
+   - Behavioral analysis
+   - Personalized insights for dog care
 
-3. **Behavioral Analysis**:
+3. **Mobile App**:
 
-   - Long Short-Term Memory (LSTM) networks for pattern recognition
-   - Integration with accelerometer and GPS data from the collar
+   - Real-time communication with the Shvanas Collar
+   - Access to free and premium services
+   - Integration with AI features and data analytics
 
-4. **Mobile App**:
+4. **Cloud Infrastructure**:
 
-   - Real-time communication with the smart collar
-   - Secure cloud synchronization of dog data
+   - Secure data storage and processing
+   - Scalable architecture to support growing user base
+   - Integration with AI/ML models for real-time analysis
 
 5. **Data Privacy and Security**:
    - End-to-end encryption for all communication
-   - Compliance with GDPR and CCPA regulations
-   - Regular security audits and penetration testing
+   - Compliance with global data protection regulations
+   - Regular security audits and updates
+
+The integration of Flutter, Gemini GenAI, and Google Cloud Platform enables Shvanas to provide a comprehensive, intelligent dog care platform with seamless user experience, advanced AI capabilities, and robust cloud infrastructure.
 
 [Learn More About Our AI Capabilities](ai-capabilities.html)

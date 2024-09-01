@@ -6,40 +6,38 @@ nav_order: 7
 
 # Roadmap
 
-Our strategic roadmap outlines the key milestones and objectives for Shvanas over the next three years.
+Our strategic roadmap outlines the key milestones and objectives for Shvanas over the short, mid, and long term.
 
-## Phase 1: Launch and Validate (Months 0-12)
+## Short Term
 
-- Finalize AI bark translation algorithm with 85% accuracy
-- Develop and launch v1.0 of the Shvanas smart collar and mobile app
-- Establish partnerships with 5 professional dog trainers for beta testing
-- Acquire first 10,000 users and gather feedback
-- Achieve $2M in revenue through direct sales and subscriptions
+- **Userbase**: Launch pilot with minimum 100,000 Monthly Active Users (MAU)
+- **Source of Users**: Local Malaysian Council (KL has 430k registered dog owners)
+- **Product Focus**: Build the perfect ecosystem tailored to the initial 100,000 users, with a strong emphasis on user feedback
+- **Revenue Sources**: Partnerships in multiple verticals and financial incentives for the Malaysian Council partnership
+- **Vision Focus**: Create an ideal dog ecosystem for dog owners
 
-## Phase 2: Grow and Enhance (Months 13-24)
+## Mid Term
 
-- Improve AI translation accuracy to 92%
-- Launch v2.0 of the smart collar with enhanced sensors
-- Expand product line to include size variations for different dog breeds
-- Develop and release advanced training resources within the app
-- Reach 100,000 active users
-- Establish partnerships with major pet store chains for retail distribution
-- Achieve $25M in revenue
+- **Userbase**: Increase MAU to 1,000,000
+- **Source of Users**: Advertising, marketing, and celebrity endorsements across Malaysia, India, and Australia
+- **Product Focus**: Expand and support an ecosystem for dog owners and service providers across Malaysia, India, and Australia
+- **Revenue Sources**: All products, with 80% powered by existing providers and partners
+- **Vision Focus**: Empower dog owners and dog-related businesses to generate more income and drive higher adoption and charity
 
-## Phase 3: Scale and Innovate (Months 25-36)
+## Long Term
 
-- Achieve 95%+ accuracy in bark translation
-- Launch v3.0 of the smart collar with expanded health monitoring features
-- Develop B2B solutions for veterinary clinics and pet care facilities
-- Expand into international markets (UK, Canada, Australia)
-- Reach 500,000 active users
-- Achieve $100M in revenue
+- **Userbase**: Global expansion to 25,000,000 MAU
+- **Source of Users**: Scale successful models from Malaysia, India, and Australia to the broader APAC region and Europe
+- **Product Focus**: Innovate and introduce new products to enhance the dog ecosystem
+- **Revenue Sources**: Products developed based on user demand and behavior. Profitability based on transactions on platform
+- **Vision Focus**: Train at least 1 million stray dogs as emotional and medical support animals, enhancing the lives of individuals in need
 
-## Long-term Vision (3+ years)
+## Key Initiatives
 
-- Become the global leader in AI-powered pet communication technology
-- Expand ecosystem to include other pets (cats, horses)
-- Develop advanced predictive health analytics for proactive pet care
-- Establish Shvanas as the go-to platform for pet-human communication and understanding
+- Develop and refine AI bark translation technology
+- Launch and iterate on the Shvanas Collar
+- Expand service offerings (insurance, travel, training programs)
+- Establish partnerships with celebrities, influencers, and industry leaders
+- Implement the "From Stray to Stay" program globally
 
 [View Detailed Timeline](timeline.html)

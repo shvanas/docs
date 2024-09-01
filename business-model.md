@@ -6,39 +6,46 @@ nav_order: 5
 
 # Business Model
 
-Shvanas employs a hardware + software model with multiple revenue streams to capitalize on various aspects of the dog care ecosystem.
+Shvanas employs a multi-faceted revenue model to capitalize on various aspects of the dog care ecosystem.
 
 ## Revenue Streams
 
 1. **Hardware Sales**:
 
-   - Smart Collar device
+   - Shvanas Collar: $199 retail price
 
 2. **Subscription Model**:
 
-   - Basic (free) and Premium tiers for app features
-   - Professional subscriptions for trainers and behaviorists
+   - Basic (free) and Premium tiers for dog owners
+   - Professional subscriptions for trainers and service providers
 
 3. **In-App Purchases**:
 
-   - Additional AI features, custom training plans
+   - Additional AI features, custom training plans, etc.
 
 4. **B2B Partnerships**:
+
    - Licensing AI technology to pet care facilities and vet clinics
+
+5. **Insurance**:
+
+   - Comprehensive coverage for dogs
+
+6. **Travel Services**:
+   - Dog-friendly travel arrangements
 
 ## Pricing Strategy
 
-- Smart Collar: $199 retail price
 - Basic app features: Free
 - Premium subscription: $9.99/month or $99/year
 - Professional subscription: $29.99/month or $299/year
 
 ## Go-to-Market Strategy
 
-- Direct-to-consumer sales through e-commerce and pet stores
-- Partnerships with veterinary clinics and professional trainers
-- Content marketing (blog, YouTube channel) focusing on dog behavior and communication
-- Influencer partnerships with dog trainers and pet celebrities
+- Celebrity Donations: Onboarding celebrities for endorsements and donation campaigns
+- Dog Narrative and Photo Competitions: Monthly contests with prizes
+- Digital Marketing: Based on Shvanas' Social Media Playbook
+- Partnerships: Collaborations with key figures like Yogi B (Malaysian Indian Rapper/Hip-hop Artist)
 
 ## Projected Financials
 

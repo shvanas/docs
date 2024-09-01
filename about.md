@@ -6,24 +6,36 @@ nav_order: 2
 
 # About Shvanas
 
-Shvanas is an innovative dog ecosystem platform that leverages AI technology to strengthen the bond between dogs and their human companions. Our name, derived from the Sanskrit word for dog, "Shvan," reflects our commitment to honoring this ancient relationship while using cutting-edge technology to enhance it.
+Shvanas is an innovative dog ecosystem platform that combines cutting-edge technology with a deep understanding of the human-canine bond. Our name, meaning "Dogs" in Sanskrit, reflects our commitment to honoring this ancient relationship while using modern solutions to enhance it.
 
 ## Our Vision
 
-To create a world where every dog and their human can communicate better, learn together, and enjoy a happier, healthier life supported by an intelligent, comprehensive ecosystem.
+"Love For Every Woof" - We envision a world where:
+
+- No stray dogs are left behind
+- Dog owners are healthier, happier, and more prosperous
+- Dogs play a crucial role in addressing mental health issues and supporting the aging population
+
+## Our Brand
+
+- The logo features a triangle resembling a Chakra, symbolizing dogs as the 8th Chakra to humans
+- An AI-powered paw print inside allows users to create a unique logo with their dog's face or paw
+- Yellow and blue colors represent dogs' dichromatic vision, emphasizing our dog-first approach
 
 ## Core Values
 
-- **Innovation**: Pushing the boundaries of AI and machine learning in pet care
+- **Innovation**: Pushing the boundaries of AI and IoT in pet care
 - **Empathy**: Understanding and addressing the needs of both dogs and their owners
-- **Community**: Fostering connections and shared knowledge among dog lovers
-- **Integrity**: Maintaining the highest standards of data privacy and ethical AI use
+- **Community**: Fostering connections among dog lovers and supporting animal welfare
+- **Integrity**: Maintaining the highest standards of ethical practices and data privacy
 
 ## The Team
 
-- **Founder & CEO**: [Your Name] - Tech entrepreneur with a passion for dogs and AI
-- **CTO**: [CTO Name] - AI and machine learning expert with experience in pet tech
-- **Head of Product**: [Name] - Product manager with background in user-centric design
-- **Lead Dog Behaviorist**: [Name] - Certified animal behaviorist with 10+ years of experience
+- **Nikitha Rajendran**: Certified Professional Dog Trainer, UNHCR experience
+- **Syankaran Kalai Arasu**: Chief Financial Officer, investment expertise
+- **Harry Saputra**: Head of Technology & AI, full-stack development background
+- **Jaykumar Sukumar**: Business Development Officer
+- **Harikaran Kalai Arasu**: Software Engineer
+- **Irdeena Zuhdi Lotfi Amer Zuhdi**: Business Development and Finance Senior Executive
 
-[Meet the Full Team](team.html)
+[Meet Our Advisors](advisors.html)

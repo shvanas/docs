@@ -6,7 +6,13 @@ nav_order: 1
 
 # Welcome to Shvanas Documentation
 
-Shvanas is a revolutionary dog ecosystem startup aimed at creating a comprehensive platform for dog owners, trainers, and service providers. Our mission is to enhance the bond between dogs and their human companions through innovative technology and community-driven solutions.
+Shvanas, derived from the Sanskrit word for "Dogs," is a revolutionary dog ecosystem startup aimed at enhancing the wellbeing of dogs and their human companions. Our mission is to create a world where every dog is loved, cared for, and understood.
+
+## Our Vision: Wellbeing for Dogs
+
+- Eliminate stray dogs worldwide by integrating them into homes and office spaces
+- Improve the health, happiness, and prosperity of dog owners
+- Leverage dogs as key players in addressing the mental health crisis and supporting the aging population
 
 ## Quick Links
 
