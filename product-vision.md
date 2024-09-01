@@ -1,7 +1,6 @@
 ---
 title: Product Vision
 layout: page
-nav_order: 3
 ---
 
 # Product Vision

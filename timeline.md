@@ -1,7 +1,6 @@
 ---
 title: Detailed Timeline
 layout: page
-nav_order: 10
 ---
 
 # Detailed Timeline

@@ -2,7 +2,6 @@
 title: Shvanas Insurance
 layout: page
 parent: Our Platform
-nav_order: 5
 ---
 
 # Shvanas Insurance

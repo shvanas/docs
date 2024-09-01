@@ -2,7 +2,6 @@
 title: The Team
 layout: page
 parent: Our Pack
-nav_order: 1
 ---
 
 # The Team

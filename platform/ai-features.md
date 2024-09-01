@@ -2,7 +2,6 @@
 title: AI-Powered Features
 layout: page
 parent: Our Platform
-nav_order: 3
 ---
 
 # AI-Powered Features

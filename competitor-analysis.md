@@ -1,7 +1,6 @@
 ---
 title: Competitor Analysis
 layout: page
-nav_order: 11
 ---
 
 # Competitor Analysis

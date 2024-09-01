@@ -2,7 +2,6 @@
 title: Travel Services
 layout: page
 parent: Our Platform
-nav_order: 6
 ---
 
 # Travel Services

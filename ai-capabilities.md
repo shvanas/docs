@@ -1,7 +1,6 @@
 ---
 title: AI Capabilities
 layout: page
-nav_order: 9
 ---
 
 # AI Capabilities

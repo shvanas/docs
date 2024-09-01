@@ -1,7 +1,6 @@
 ---
 title: Technology Stack
 layout: page
-nav_order: 6
 ---
 
 # Technology Stack

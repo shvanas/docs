@@ -2,7 +2,6 @@
 title: Shvanas Collar
 layout: page
 parent: Our Platform
-nav_order: 1
 ---
 
 # Shvanas Collar

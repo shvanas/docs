@@ -1,3 +1,62 @@
 title: Shvanas
 description: Brainstorming and living guidelines for the Shvanas dog ecosystem startup
 theme: just-the-docs
+
+nav:
+  - title: Home
+    url: /
+    nav_order: 1
+  - title: About Shvanas
+    url: /about
+    nav_order: 2
+  - title: Our Platform
+    url: /platform/index
+    nav_order: 3
+    children:
+      - title: Shvanas Collar
+        url: /platform/shvanas-collar
+      - title: Mobile App
+        url: /platform/mobile-app
+      - title: AI-Powered Features
+        url: /platform/ai-features
+      - title: Training Programs
+        url: /platform/training-programs
+      - title: Insurance
+        url: /platform/insurance
+      - title: Travel Services
+        url: /platform/travel-services
+  - title: Product Vision
+    url: /product-vision
+    nav_order: 4
+  - title: Market Opportunity & Research
+    url: /market-opportunity
+    nav_order: 5
+  - title: Business Model
+    url: /business-model
+    nav_order: 6
+  - title: Technology Stack
+    url: /technology-stack
+    nav_order: 7
+  - title: Roadmap
+    url: /roadmap
+    nav_order: 8
+  - title: Our Pack
+    url: /our-pack/index
+    nav_order: 9
+    children:
+      - title: The Team
+        url: /our-pack/the-team
+      - title: Board Advisors
+        url: /our-pack/board-advisors
+  - title: Financial Projections
+    url: /financials
+    nav_order: 10
+  - title: Competitor Analysis
+    url: /competitor-analysis
+    nav_order: 11
+  - title: Detailed Timeline
+    url: /timeline
+    nav_order: 12
+  - title: AI Capabilities
+    url: /ai-capabilities
+    nav_order: 13

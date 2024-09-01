@@ -2,7 +2,6 @@
 title: Training Programs
 layout: page
 parent: Our Platform
-nav_order: 4
 ---
 
 # Training Programs

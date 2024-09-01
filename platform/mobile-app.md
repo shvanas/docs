@@ -2,7 +2,6 @@
 title: Mobile App
 layout: page
 parent: Our Platform
-nav_order: 2
 ---
 
 # Shvanas Mobile App

@@ -1,7 +1,6 @@
 ---
 title: Business Model
 layout: page
-nav_order: 5
 ---
 
 # Business Model

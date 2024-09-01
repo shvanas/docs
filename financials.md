@@ -1,7 +1,6 @@
 ---
 title: Financial Projections
 layout: page
-nav_order: 12
 ---
 
 # Financial Projections

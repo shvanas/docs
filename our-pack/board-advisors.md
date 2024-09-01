@@ -2,7 +2,6 @@
 title: Board Advisors
 layout: page
 parent: Our Pack
-nav_order: 2
 ---
 
 # Board Advisors
