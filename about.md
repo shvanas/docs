@@ -6,24 +6,24 @@ nav_order: 2
 
 # About Shvanas
 
-Shvanas is a pioneering dog ecosystem platform that connects dog owners, trainers, and service providers in a seamless digital environment. Our name, inspired by the Sanskrit word for dog, "Shvan," reflects our commitment to honoring the ancient bond between humans and canines while leveraging modern technology to strengthen it.
+Shvanas is an innovative dog ecosystem platform that leverages AI technology to strengthen the bond between dogs and their human companions. Our name, derived from the Sanskrit word for dog, "Shvan," reflects our commitment to honoring this ancient relationship while using cutting-edge technology to enhance it.
 
 ## Our Vision
 
-To create a world where every dog and their human can thrive together, supported by a comprehensive ecosystem of services, knowledge, and community.
+To create a world where every dog and their human can communicate better, learn together, and enjoy a happier, healthier life supported by an intelligent, comprehensive ecosystem.
 
 ## Core Values
 
-- **Innovation**: Constantly pushing the boundaries of what's possible in pet care technology
+- **Innovation**: Pushing the boundaries of AI and machine learning in pet care
+- **Empathy**: Understanding and addressing the needs of both dogs and their owners
 - **Community**: Fostering connections and shared knowledge among dog lovers
-- **Empowerment**: Equipping dog owners with the tools and information they need for optimal pet care
-- **Integrity**: Maintaining the highest standards of trust and transparency in all our operations
+- **Integrity**: Maintaining the highest standards of data privacy and ethical AI use
 
 ## The Team
 
-- **Founder & CEO**: [Your Name] - Experienced entrepreneur with a passion for dogs and technology
-- **CTO**: [CTO Name] - Seasoned technologist with expertise in AI and mobile app development
-- **Head of Partnerships**: [Name] - Veteran of the pet industry with extensive connections
-- **Lead Dog Behaviorist**: [Name] - Certified animal behaviorist with 15+ years of experience
+- **Founder & CEO**: [Your Name] - Tech entrepreneur with a passion for dogs and AI
+- **CTO**: [CTO Name] - AI and machine learning expert with experience in pet tech
+- **Head of Product**: [Name] - Product manager with background in user-centric design
+- **Lead Dog Behaviorist**: [Name] - Certified animal behaviorist with 10+ years of experience
 
-[Meet the Full Team](team.md)
+[Meet the Full Team](team.html)

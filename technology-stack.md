@@ -6,46 +6,43 @@ nav_order: 6
 
 # Technology Stack
 
-Shvanas leverages cutting-edge technologies to deliver a seamless and intelligent platform for dog owners and service providers.
+Shvanas leverages cutting-edge AI and IoT technologies to deliver an intelligent platform for dog-human communication.
 
 ## Core Technologies
 
+- **AI/ML**: TensorFlow and PyTorch for deep learning models
+- **IoT**: Custom-designed smart collar with audio sensors and processors
 - **Mobile App**: React Native for cross-platform development
-- **Backend**: Node.js with Express.js
-- **Database**: MongoDB for flexibility and scalability
-- **AI/ML**: TensorFlow and PyTorch for computer vision and NLP tasks
-- **Cloud Infrastructure**: AWS (Amazon Web Services)
+- **Backend**: Python with Flask for AI model serving
+- **Database**: PostgreSQL for structured data, MongoDB for unstructured data
+- **Cloud Infrastructure**: AWS (Amazon Web Services) for scalability and AI/ML capabilities
 
 ## Key Features and Technologies
 
-1. **AI-Powered Bark Translation**:
+1. **AI Bark Translation**:
 
-   - Custom-trained deep learning models
-   - Real-time audio processing
+   - Custom-trained deep learning models using CNNs and RNNs
+   - Natural Language Processing (NLP) for context understanding
+   - Real-time audio processing on the smart collar
 
-2. **Computer Vision for Dog Recognition**:
+2. **Emotion Detection**:
 
-   - Convolutional Neural Networks (CNNs)
-   - Transfer learning with pre-trained models
+   - Machine learning algorithms for canine emotion classification
+   - Integration with collar sensors for physiological data
 
 3. **Behavioral Analysis**:
 
-   - Machine learning algorithms for pattern recognition
-   - Integration with wearable device data
+   - Long Short-Term Memory (LSTM) networks for pattern recognition
+   - Integration with accelerometer and GPS data from the collar
 
-4. **Marketplace Platform**:
+4. **Mobile App**:
 
-   - Real-time booking system
-   - Secure payment processing (Stripe integration)
+   - Real-time communication with the smart collar
+   - Secure cloud synchronization of dog data
 
-5. **Community Forums**:
-   - Elasticsearch for efficient content search
-   - Real-time updates with WebSockets
+5. **Data Privacy and Security**:
+   - End-to-end encryption for all communication
+   - Compliance with GDPR and CCPA regulations
+   - Regular security audits and penetration testing
 
-## Data Security and Privacy
-
-- End-to-end encryption for user data
-- Compliance with GDPR and CCPA regulations
-- Regular security audits and penetration testing
-
-[Learn More About Our AI Capabilities](ai-features.md)
+[Learn More About Our AI Capabilities](ai-capabilities.html)

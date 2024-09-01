@@ -7,14 +7,14 @@ has_children: true
 
 # The Shvanas Platform
 
-Shvanas is an all-in-one platform designed to revolutionize the dog care experience. Our ecosystem comprises several interconnected components:
+Shvanas is an AI-powered platform designed to revolutionize dog-human communication and care. Our ecosystem comprises several key components:
 
-1. [Mobile App](mobile-app.md)
-2. [AI-Powered Features](ai-features.md)
-3. [Marketplace](marketplace.md)
-4. [Community Forums](community.md)
-5. [Educational Resources](education.md)
+1. [AI Bark Translator](ai-bark-translator.html)
+2. [Smart Collar](smart-collar.html)
+3. [Mobile App](mobile-app.html)
+4. [Training Resources](training-resources.html)
+5. [Community Features](community-features.html)
 
-Each component is designed to work seamlessly together, creating a comprehensive solution for dog owners, trainers, and service providers.
+Each component works in harmony to provide a comprehensive solution for enhancing dog-human relationships.
 
-[Learn More About Our Features](mobile-app.md){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Discover Our AI Technology](ai-bark-translator.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
