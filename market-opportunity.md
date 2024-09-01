@@ -1,6 +1,7 @@
 ---
 title: Market Opportunity & Research
 layout: page
+nav_order: 4
 ---
 
 # Market Opportunity & Research

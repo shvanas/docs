@@ -1,6 +1,7 @@
 ---
 title: About Shvanas
 layout: page
+nav_order: 2
 ---
 
 # About Shvanas
