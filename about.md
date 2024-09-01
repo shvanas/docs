@@ -6,16 +6,24 @@ nav_order: 2
 
 # About Shvanas
 
-Shvanas is a dog ecosystem startup dedicated to revolutionizing the way dogs and their owners interact, learn, and grow together. Our mission is to create innovative products and services that enhance the bond between dogs and humans while improving canine health and happiness.
+Shvanas is a pioneering dog ecosystem platform that connects dog owners, trainers, and service providers in a seamless digital environment. Our name, inspired by the Sanskrit word for dog, "Shvan," reflects our commitment to honoring the ancient bond between humans and canines while leveraging modern technology to strengthen it.
 
 ## Our Vision
 
-[Outline your vision for Shvanas here]
+To create a world where every dog and their human can thrive together, supported by a comprehensive ecosystem of services, knowledge, and community.
 
 ## Core Values
 
-[List your company's core values]
+- **Innovation**: Constantly pushing the boundaries of what's possible in pet care technology
+- **Community**: Fostering connections and shared knowledge among dog lovers
+- **Empowerment**: Equipping dog owners with the tools and information they need for optimal pet care
+- **Integrity**: Maintaining the highest standards of trust and transparency in all our operations
 
 ## The Team
 
-[Introduce key team members and their roles]
+- **Founder & CEO**: [Your Name] - Experienced entrepreneur with a passion for dogs and technology
+- **CTO**: [CTO Name] - Seasoned technologist with expertise in AI and mobile app development
+- **Head of Partnerships**: [Name] - Veteran of the pet industry with extensive connections
+- **Lead Dog Behaviorist**: [Name] - Certified animal behaviorist with 15+ years of experience
+
+[Meet the Full Team](team.md)
