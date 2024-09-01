@@ -9,3 +9,35 @@ theme: just-the-docs
 # url: https://just-the-docs.github.io
 # aux_links:
 #   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+nav:
+  - title: Home
+    url: /
+    nav_order: 1
+  - title: About Shvanas
+    url: /about
+    nav_order: 2
+  - title: Our Platform
+    url: /platform/index
+    nav_order: 3
+  - title: Market Opportunity & Research
+    url: /market-opportunity
+    nav_order: 4
+  - title: Business Model
+    url: /business-model
+    nav_order: 5
+  - title: Technology Stack
+    url: /technology-stack
+    nav_order: 6
+  - title: Roadmap
+    url: /roadmap
+    nav_order: 7
+  - title: Our Pack
+    url: /our-pack
+    nav_order: 8
+    children:
+      - title: The Team
+        url: /our-pack#the-team
+      - title: Board Advisors
+        url: /our-pack#board-advisors
+      - title: Join Our Pack
+        url: /our-pack#join-our-pack
