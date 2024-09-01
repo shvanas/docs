@@ -2,13 +2,23 @@
 title: Our Pack
 layout: page
 nav_order: 8
+has_toc: true
 ---
 
 # Our Pack
 
 At Shvanas, we believe that our team and advisors are the heart of our mission to revolutionize the dog ecosystem. Our pack is composed of passionate individuals with diverse expertise in technology, dog care, business, and more.
 
-## Core Team
+## Table of Contents
+
+{: .no_toc .text-delta }
+
+1. TOC
+   {:toc}
+
+## The Team
+
+Our core team is the driving force behind Shvanas' innovation and growth.
 
 ### Nikitha Rajendran
 
@@ -50,7 +60,7 @@ At Shvanas, we believe that our team and advisors are the heart of our mission t
 - Background in law and finance
 - Experience in content translation and legal practices
 
-## Advisors
+## Board Advisors
 
 Our advisors bring invaluable experience and insights to guide Shvanas' growth and development.
 

@@ -29,13 +29,4 @@ Shvanas is an innovative dog ecosystem platform that combines cutting-edge techn
 - **Community**: Fostering connections among dog lovers and supporting animal welfare
 - **Integrity**: Maintaining the highest standards of ethical practices and data privacy
 
-## The Team
-
-- **Nikitha Rajendran**: Certified Professional Dog Trainer, UNHCR experience
-- **Syankaran Kalai Arasu**: Chief Financial Officer, investment expertise
-- **Harry Saputra**: Head of Technology & AI, full-stack development background
-- **Jaykumar Sukumar**: Business Development Officer
-- **Harikaran Kalai Arasu**: Software Engineer
-- **Irdeena Zuhdi Lotfi Amer Zuhdi**: Business Development and Finance Senior Executive
-
-[Meet Our Advisors](advisors.html)
+[Meet Our Pack](our-pack.html)
