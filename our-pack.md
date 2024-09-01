@@ -2,21 +2,16 @@
 title: Our Pack
 layout: page
 nav_order: 8
-has_toc: true
+has_children: true
 ---
 
 # Our Pack
 
 At Shvanas, we believe that our team and advisors are the heart of our mission to revolutionize the dog ecosystem. Our pack is composed of passionate individuals with diverse expertise in technology, dog care, business, and more.
 
-## Table of Contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc}
-
 ## The Team
+
+{: #the-team }
 
 Our core team is the driving force behind Shvanas' innovation and growth.
 
@@ -62,6 +57,8 @@ Our core team is the driving force behind Shvanas' innovation and growth.
 
 ## Board Advisors
 
+{: #board-advisors }
+
 Our advisors bring invaluable experience and insights to guide Shvanas' growth and development.
 
 ### Adlin Yusman
@@ -90,6 +87,8 @@ Our advisors bring invaluable experience and insights to guide Shvanas' growth a
 - Expertise in dog training and behavior
 
 ## Join Our Pack
+
+{: #join-our-pack }
 
 We're always looking for passionate individuals to join our mission. If you're excited about revolutionizing the dog care industry and have skills in technology, dog care, or business development, we'd love to hear from you!
 
