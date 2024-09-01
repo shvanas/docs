@@ -27,5 +27,3 @@ Shvanas is an innovative dog ecosystem platform that combines cutting-edge techn
 - **Empathy**: Understanding and addressing the needs of both dogs and their owners
 - **Community**: Fostering connections among dog lovers and supporting animal welfare
 - **Integrity**: Maintaining the highest standards of ethical practices and data privacy
-
-[Meet Our Pack](our-pack.html)

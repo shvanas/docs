@@ -22,6 +22,3 @@ Shvanas, derived from the Sanskrit word for "Dogs," is a revolutionary dog ecosy
 - [Business Model](business-model.html)
 - [Technology Stack](technology-stack.html)
 - [Roadmap](roadmap.html)
-
-[Explore Our Vision](about.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Join the Pack](https://shvanas.com/join){: .btn .fs-5 .mb-4 .mb-md-0 }
